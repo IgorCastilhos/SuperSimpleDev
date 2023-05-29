@@ -1,0 +1,15 @@
+* {
+  font-family: Roboto, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.thumbnail {
+  width: 300px;
+}
+
+.search-bar {
+  font-size: 16px;
+  margin-left: 12px;
+  text-align: start;
+}
